@@ -1,1 +1,1 @@
-||1|100|29.10.2023|[001-08/07/2023] v100 yayinlandi. [002-15/01/2023] CMS ERROR: 330 durumunda telefonunuzu yeniden baslatin. [003-28/06/2023] Herkese iyi bayramlar... [004-29/06/2023] Mesaj okumak icin telefon bilgisayara bagli olmalidir.*||
+||1|100|29.10.2023|[001-08/07/2023] QuickSMS v100 cok yakinda yayinlanacaktir. [002-09/09/2023] SMSPost v160 ta gorulen minor hatalar giderilerek son kez yayinlanacaktir. QuickSMS ile birlikte SMSPost un gelistirilmesine son verilmistir. *||
