@@ -1,1 +1,1 @@
-||1|100|29.10.2023|00003|[001-08/07/2023] QuickSMS v100 cok yakinda yayinlanacaktir. [002-09/09/2023] SMSPost v160 ta gorulen minor hatalar giderilerek son kez yayinlanacaktir. QuickSMS ile birlikte SMSPost un gelistirilmesine son verilmistir. *||
+||1|100|29.10.2023|00003|[001-18/07/2023] <TUR: QuickSMS v100 Beta yayinlandi.><ENG: QuickSMS v100 Beta released !>[002-18/07/2023] <TUR:Toplu SMS gondermeden once Yardim menusunu okuyun ve Tekli SMS ile test gonderiler yapin.><ENG: Before sending a bulk SMS, browse the help menu and do tests by sending a single sms.> *||
