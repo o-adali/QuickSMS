@@ -5,7 +5,7 @@
 
 TUR:
 Android telefon veya USB modem ile EXCEL den toplu ücretsiz SMS gönderme programı
-QuickSMS.exe dosyasını indirin ve masa üzerinde çalıştırınız.
+QuickSMS.exe dosyasını indirmeniz ve masa üzerinde çalıştırmanız yeterlidir.
 Kullanım şekli için programın Yardım menüsüne göz atınız.
 -----------------------------------------------------------------------------------
 ENG:
