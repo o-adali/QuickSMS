@@ -1,7 +1,7 @@
 
 İndirme / Download Link  : https://github.com/o-adali/QuickSMS/blob/main/QuickSMS.exe?raw=true
 
-# QuickSMS v100 Beta
+# QuickSMS v101 Beta
 
 TUR:
 Android telefon veya USB modem ile EXCEL den toplu ücretsiz SMS gönderme programı
