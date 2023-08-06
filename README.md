@@ -1,5 +1,8 @@
-
+                   Video : https://youtu.be/AIkDIIFnffc
 İndirme / Download Link  : https://github.com/o-adali/QuickSMS/blob/main/QuickSMS.exe?raw=true
+
+If you got mscomm32.ocx missing error, solition is here :
+https://blogs.sap.com/2014/10/02/how-to-registeractivate-activex-component-mscomm32ocx-on-windows-7/
 
 # QuickSMS v101 Beta
 
