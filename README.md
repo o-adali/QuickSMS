@@ -5,6 +5,9 @@ If you got mscomm32.ocx missing error, solition is here :
 https://blogs.sap.com/2014/10/02/how-to-registeractivate-activex-component-mscomm32ocx-on-windows-7/
 
 # QuickSMS v101 Beta
+  System Requirements :
+  - Windows 10 or 11 (The Microsoft Port communication library of mscomm32.ocx is must be registered on your windows)
+  - Microsoft Excel
 
 TUR:
 Android telefon veya USB modem ile EXCEL den toplu ücretsiz SMS gönderme programı
