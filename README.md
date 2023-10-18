@@ -1,15 +1,19 @@
-                   
-İndirme / Download Link  : https://github.com/o-adali/QuickSMS/blob/main/QuickSMS.exe?raw=true
-                   Video : https://youtu.be/AIkDIIFnffc
-                   
-If you got mscomm32.ocx missing error, solition is here :
-https://blogs.sap.com/2014/10/02/how-to-registeractivate-activex-component-mscomm32ocx-on-windows-7/
-
 # QuickSMS v101 Beta (No licence requirement, it is free to use)
-
   System Requirements :
   - Windows 10 or 11 (The Microsoft Port communication library of mscomm32.ocx is must be registered on your windows)
   - Microsoft Excel
+
+You need only QuickSMS.exe file, download and run it on your desktop and read Help menu.
+    
+Download Link  : https://github.com/o-adali/QuickSMS/blob/main/QuickSMS.exe?raw=true
+
+Information Video : https://youtu.be/AIkDIIFnffc
+
+Contact and Support eMail : quicksms2023@gmail.com  
+
+If you have got mscomm32.ocx missing error, solition is here :
+
+https://blogs.sap.com/2014/10/02/how-to-registeractivate-activex-component-mscomm32ocx-on-windows-7/
 
 TUR:
 Android telefon veya USB modem ile EXCEL den toplu ücretsiz SMS gönderme programı
