@@ -11,9 +11,8 @@ Information Video : https://youtu.be/AIkDIIFnffc
 
 Contact and Support eMail : quicksms2023@gmail.com  
 
-If you have got mscomm32.ocx missing error, solition is here :
-
-https://blogs.sap.com/2014/10/02/how-to-registeractivate-activex-component-mscomm32ocx-on-windows-7/
+If you have got MSCOMM32.OCX or MSCOMCTL.OCX missing error, You must register these files to your Windows.
+Check this link for the learn registering prosess : https://blogs.sap.com/2014/10/02/how-to-registeractivate-activex-component-mscomm32ocx-on-windows-7/
 
 TUR:
 Android telefon veya USB modem ile EXCEL den toplu ücretsiz SMS gönderme programı
