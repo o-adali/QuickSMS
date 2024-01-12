@@ -8,8 +8,14 @@ You need only QuickSMS.exe file, download and run it on your desktop and read He
 Download Link  : https://github.com/o-adali/QuickSMS/blob/main/QuickSMS.exe?raw=true
 
 Information Video : https://youtu.be/AIkDIIFnffc
-
 Contact and Support eMail : quicksms2023@gmail.com  
+
+For the program to run, the following Windows libraries are must found in your System Folder, end they are must correctly registered.
+MSCOMCTL.OCX
+MSCOMCTL.DEP
+MSCOMCTL.SRG
+MSCOMM32.OCX
+MSSTDFMT.DLL
 
 If you have got MSCOMM32.OCX or MSCOMCTL.OCX missing error, You must register these files to your Windows.
 Check this link for the learn registering prosess : https://blogs.sap.com/2014/10/02/how-to-registeractivate-activex-component-mscomm32ocx-on-windows-7/
