@@ -1,6 +1,6 @@
 # QuickSMS v101 Beta (No licence requirement, it is free to use)
   System Requirements :
-  - Windows 10 or 11 (The Windows libraries of MSCOMM32.OCX and MSCOMCTL.OCX are must be registered on your windows)
+  - Windows 10 or 11 (The Windows libraries of MSCOMM32.OCX and MSCOMCTL.OCX and MSSTDFMT.DLL are must be registered on your windows)
   - Microsoft Excel
 
 You need only QuickSMS.exe file, download and run it on your desktop and read Help menu.
