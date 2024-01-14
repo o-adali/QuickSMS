@@ -1,16 +1,18 @@
-# QuickSMS v101 Beta (No licence requirement, it is free to use)
+# QuickSMS v103 Beta Auto Setup Function Added !!!!! (No licence requirement, it is free to use)  
+
   System Requirements :
-  - Windows 10 or 11 (The Windows libraries of MSCOMM32.OCX and MSCOMCTL.OCX and MSSTDFMT.DLL are must be registered on your windows)
+  - Windows 10 or 11 
   - Microsoft Excel
 
 You need only QuickSMS.exe file, download and run it on your desktop and read Help menu.
-    
+Star program As Administrator First Time Run for SETUP. (Right Clik to program ikon, select Run As Administrator) ,Answer the setup Questions ! 
+
 Download Link  : https://github.com/o-adali/QuickSMS/blob/main/QuickSMS.exe?raw=true
 
 Information Video : https://youtu.be/AIkDIIFnffc
 Contact and Support eMail : quicksms2023@gmail.com  
 
-For the program to run, the following Windows libraries are must found in your System Folder, end they are must correctly registered.
+For the program to run, the following Windows libraries are must found in your System Folder, end they are must correctly registered.(Lets v103 auto registering)
 MSCOMCTL.OCX
 MSCOMCTL.DEP
 MSCOMCTL.SRG
