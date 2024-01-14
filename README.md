@@ -7,7 +7,7 @@
 You need only QuickSMS.exe file, download and run it on your desktop and read Help menu.(If you more before installed, you must delete QuickSMS folder before the run v103)
 Start program As Administrator First Time Run for SETUP. (Right Clik to program ikon, select Run As Administrator) , Answer the Setup questions ! 
 
-For the Download file, Click on the QuickSMS.exe file name in the file list at the top of the page, click the bottom arrow icon on the right of the screen.
+For the Download file, Click on the QuickSMS.exe file name in the file list at the top of the page, click the down arrow icon on the right of the screen.
 
 Information Video : https://youtu.be/AIkDIIFnffc
 Contact and Support eMail : quicksms2023@gmail.com  
