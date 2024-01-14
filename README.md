@@ -1,4 +1,4 @@
-# QuickSMS v103 Beta Auto Setup Function Added !!!!! (No licence requirement, it is free to use)  
+# QuickSMS v1.0.3 Beta  - Auto Setup Function Added !!! - (No licence requirement, it is free to use)  
 
   System Requirements :
   - Windows 10 or 11 
@@ -12,15 +12,14 @@ Download Link  : https://github.com/o-adali/QuickSMS/blob/main/QuickSMS.exe?raw=
 Information Video : https://youtu.be/AIkDIIFnffc
 Contact and Support eMail : quicksms2023@gmail.com  
 
-For the program to run, the following Windows libraries are must found in your System Folder, end they are must correctly registered.(Lets v103 auto registering)
+For the program to run, the following Windows libraries are must found in your System Folder, end they are must correctly registered.(Now v1.0.3 auto checking and registering these files)
 MSCOMCTL.OCX
 MSCOMCTL.DEP
 MSCOMCTL.SRG
 MSCOMM32.OCX
 MSSTDFMT.DLL
 
-If you have got MSCOMM32.OCX or MSCOMCTL.OCX or MSSTDFMT.DLL missing error, You must register these files to your Windows.
-Check this link for the learn registering prosess : https://blogs.sap.com/2014/10/02/how-to-registeractivate-activex-component-mscomm32ocx-on-windows-7/
+
 
 TUR:
 Android telefon veya USB modem ile EXCEL den toplu ücretsiz SMS gönderme programı
