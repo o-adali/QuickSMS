@@ -1,5 +1,6 @@
 # QuickSMS v1.0.3 Beta  - Auto Setup Function Added !!! - (No licence requirement, it is free to use)  
 (At the 13 and 14 Jan 2024 days QuickSMS.exe uploaded and deleted too many times by me. The last uploaded QuickSMS.exe file is more stable. It can startup Install process without MSCOMM32.OCX )
+ 
   System Requirements :
   - Windows 10 or 11 
   - Microsoft Excel
