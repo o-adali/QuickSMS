@@ -19,7 +19,7 @@ MSCOMCTL.SRG
 MSCOMM32.OCX
 MSSTDFMT.DLL
 
-ENG: Follow the steps to connect the program to your PHONE from the Help Menu and Announcements section.
+ENG: Follow the steps to connect the program to your PHONE from the Help Menu and Announcements section. ------------------------- 
 TUR: Programı telefonuza bağlamak için gerekenleri Yardım menüsünden ve Duyurular bölümünden takip ediniz.
 
 
