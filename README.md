@@ -12,7 +12,7 @@ Download Link  : https://github.com/o-adali/QuickSMS/blob/main/QuickSMS.exe?raw=
 Information Video : https://youtu.be/AIkDIIFnffc
 Contact and Support eMail : quicksms2023@gmail.com  
 
-For the program to run, the following Windows libraries are must found in your System Folder, end they are must correctly registered.     ( Now v1.0.3 auto checking and registering these files)
+For the program to run, the following Windows libraries are must found in your System Folder, and they are must correctly registered.  ( Now QuickSMS.exe v1.0.3 Auto Checking and registering these files)
 MSCOMCTL.OCX
 MSCOMCTL.DEP
 MSCOMCTL.SRG
