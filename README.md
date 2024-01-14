@@ -5,7 +5,7 @@
   - Microsoft Excel
 
 You need only QuickSMS.exe file, download and run it on your desktop and read Help menu.(If you more before installed, you must delete QuickSMS folder before the run v103)
-Star program As Administrator First Time Run for SETUP. (Right Clik to program ikon, select Run As Administrator) ,Answer the setup Questions ! 
+Start program As Administrator First Time Run for SETUP. (Right Clik to program ikon, select Run As Administrator) ,Answer the setup Questions ! 
 
 Download Link  : https://github.com/o-adali/QuickSMS/blob/main/QuickSMS.exe?raw=true
 
