@@ -28,7 +28,7 @@ MSSTDFMT.DLL
 QuickSMS was coded in VB6 and required to run It requires these windows components to be present and registered. If the above-mentioned Components are present and registered on your computer, QuickSMS does not take any action during installation. It works directly. Essentially, the installation process is very simple. It tries to complete the missing or unregistered files. You can also do this manually. When everything is ready, QuickSMS will start working.
 
 
------- ENG: Follow the steps to connect the program to your PHONE from the Help Menu and Announcements section. ------------------------- 
+------ ENG: Follow the steps to connect the program to your PHONE from the Help Menu and Announcements section. ------------- 
 ------ TUR: Programı telefonuza bağlamak için gerekenleri Yardım menüsünden ve Duyurular bölümünden takip ediniz. -------------
 
 TUR:
