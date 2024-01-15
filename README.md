@@ -1,12 +1,13 @@
 # QuickSMS v1.0.3 Beta  - Auto Setup Function Added !!! - (No licence requirement, it is free to use)  
-(At the 13 and 14 Jan 2024 days QuickSMS.exe uploaded and deleted too many times by me. The last uploaded QuickSMS.exe file is more stable. It can startup Install process without MSCOMM32.OCX )
  
   System Requirements :
   - Windows 10 or 11 
   - Microsoft Excel
 
-You need only QuickSMS.exe file, download and run it on your desktop and read Help menu.(If you more before installed, you must delete QuickSMS folder before the run v103)
-Start program As Administrator First Time Run for SETUP. (Right Clik to program ikon, select Run As Administrator) , Answer the Setup questions ! 
+If you are going to install for the first time, download QuickSMS.exe and put it on your desktop. Right click on the program icon. Select Run as administrator from the menu that opens. For successful installation, it is necessary to start as an administrator.
+
+To uninstall, simply delete the QuickSMS folder and QuickSMS.exe.
+
 
 Download Link:https://github.com/o-adali/QuickSMS/raw/main/QuickSMS.exe
 
@@ -20,9 +21,10 @@ MSCOMCTL.SRG
 MSCOMM32.OCX
 MSSTDFMT.DLL
 
+QuickSMS was coded in VB6 and required to run It requires these windows components to be present and registered. If the above-mentioned Components are present and registered on your computer, QuickSMS does not take any action during installation. It works directly. Essentially, the installation process is very simple. It tries to complete the missing or unregistered files. You can also do this manually. When everything is ready, QuickSMS will start working.
+
 ------ ENG: Follow the steps to connect the program to your PHONE from the Help Menu and Announcements section. ------------------------- 
 ------ TUR: Programı telefonuza bağlamak için gerekenleri Yardım menüsünden ve Duyurular bölümünden takip ediniz. -----------------------
-
 
 TUR:
 Android telefon veya USB modem ile EXCEL den toplu ücretsiz SMS gönderme programı
