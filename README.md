@@ -1,4 +1,4 @@
-# QuickSMS v1.0.3 Beta  - Auto Setup Function Added !!! - (No licence requirement, it is free to use)  
+# QuickSMS v1.0.3 Beta  - Auto Setup Function Added !!! - (No licence requirement, This is Time Limited Edition, it is free to use)  
  
   System Requirements :
   - Windows 10 or 11 
