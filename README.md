@@ -1,10 +1,10 @@
-# QuickSMS v1.0.3 Beta  - Auto Setup Function Added !!! - (No licence requirement, This is Time Limited Edition, it is free to use)  
+# QuickSMS v1.0.3 Beta  - Auto Setup Function Added !!! - (No licence requirement)  
  
   System Requirements :
   - Windows 10 or 11 
   - Microsoft Excel
 
-If you are going to install for the first time, download QuickSMS.exe and put it on your desktop. Right click on the program icon. Select Run as administrator from the menu that opens. For successful installation, it is necessary to start as an administrator.
+If you are going to install for the first time, download only QuickSMS.exe and put it on your desktop. Right click on the program icon. Select Run as administrator from the menu that opens. For successful installation, it is necessary to start as an administrator.
 
 To uninstall, simply delete the QuickSMS folder and QuickSMS.exe.
 
