@@ -8,9 +8,10 @@ If you are going to install for the first time, download only QuickSMS.exe and p
 
 To uninstall, simply delete the QuickSMS folder and QuickSMS.exe.
 
-To reinstall it, you must delete or rename the QuickSMS folder.(Again ,it is necessary to start as an administrator)
+To reinstall it, you must delete or rename the QuickSMS folder then start to Quicksms.exe as administrator.
 
-Starting it with Administrator privilege gives it the authority to access and register the system folder. After the installation is completed, this authorization is not required for it to run, you can start it directly by clicking on the icon.
+Starting it with Administrator privilege gives it the authority to access and register the system folder. 
+After the installation is completed, this authorization is not required for it to run, you can start it directly by clicking on the icon.
 
 Download Link:https://github.com/o-adali/QuickSMS/raw/main/QuickSMS.exe
 
