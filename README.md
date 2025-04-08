@@ -1,4 +1,5 @@
 # QuickSMS v1.0.4 Beta  - Auto Setup Function Added !!! - (No licence requirement)  
+-v1.0.3 download srg and dep files problems are fixed
 -v1.0.3 installation problems are fixed 
 -Runtime 13 Error fixed
  
