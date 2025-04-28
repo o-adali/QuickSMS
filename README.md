@@ -3,6 +3,7 @@
   System Requirements :
   - Windows 10 or 11 
   - Microsoft Excel
+QuickSMS v104 is updated at 28 April 2025 18:30, added error handler and dialogs. Support Mail is :quicksms2023@gmail.com
 
 If you are going to install for the first time, download only QuickSMS.exe and put it on your desktop. Right click on the program icon. Select Run as administrator from the menu that opens. For successful installation, it is necessary to start as an administrator.
 
