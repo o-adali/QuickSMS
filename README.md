@@ -1,4 +1,4 @@
-Versiyon v105 Beta released. Re-designed installation prosess. Let you can need only download install package then unzip and run installer, setup info founded in the package.
+Versiyon v105 Beta released at 05/05/2025. Re-designed installation prosess. Let you can need only download install package then unzip and run installer, setup info founded in the package.
 Download Link:https://github.com/o-adali/QuickSMS/raw/main/QuickSMS-Install.zip
 
   System Requirements :
