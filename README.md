@@ -16,8 +16,6 @@ To reinstall it, you must delete or rename the QuickSMS folder then start to Qui
 Starting it with Administrator privilege gives it the authority to access and register the system folder. 
 After the installation is completed, this authorization is not required for it to run, you can start it directly by clicking on the icon.
 
-Download Link:https://github.com/o-adali/QuickSMS/raw/main/QuickSMS.exe
-
 Information Video : https://youtu.be/AIkDIIFnffc
 Contact and Support eMail : quicksms2023@gmail.com  
 
