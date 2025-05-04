@@ -1,4 +1,5 @@
-# QuickSMS v1.0.4 Beta  - Auto Setup Function Added !!! - (No licence requirement)  
+Versiyon v105 Beta released. Re-designed installation prosess. Let you can need only download install package then unzip and run installer, setup info founded in the package.
+Download Link:https://github.com/o-adali/QuickSMS/raw/main/QuickSMS-Install.zip
 
   System Requirements :
   - Windows 10 or 11 
