@@ -17,7 +17,7 @@ After the installation is completed, this authorization is not required for it t
 Information Video : https://youtu.be/AIkDIIFnffc
 Contact and Support eMail : quicksms2023@gmail.com  
 
-For the program to run, the following Windows libraries are must found in your System Folder, and they are must correctly registered.  ( Now QuickSMS.exe v1.0.3 Auto Checking and registering these files)
+For the program to run, the following Windows libraries are must found in your System Folder, and they are must correctly registered. 
 
 MSCOMCTL.OCX
 MSCOMCTL.DEP
