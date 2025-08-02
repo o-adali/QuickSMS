@@ -1,13 +1,11 @@
-Versiyon v105 Beta released at 05/05/2025. Re-designed installation prosess. Let you can need only download install package then unzip and run installer, setup info founded in the package. Download Link: https://github.com/o-adali/QuickSMS/raw/main/QuickSMS-Install.zip
+Versiyon v106 Beta released at 02/08/2025. Re-designed installation prosess. Let you can need only download install package then unzip and run installer, setup info founded in the package. Download Link: https://github.com/o-adali/QuickSMS/raw/main/QuickSMS-Install.zip
 Very simple, easy to use, run it and read Help menu.
 
   System Requirements :
   - Windows 10 or 11 
   - Microsoft Excel
     
-QuickSMS v104 is updated at 28 April 2025 18:30, added error handler and dialogs. Support Mail is :quicksms2023@gmail.com
-
-If you are going to install for the first time, download only QuickSMS.exe and put it on your desktop. Right click on the program icon. Select Run as administrator from the menu that opens. For successful installation, it is necessary to start as an administrator.
+If you are going to install for the first time, download only QuickSMS-Install.zip and unzip to folder. Right click on the program icon QuickSMSInstaller.Exe in the folder. Select Run as administrator from the menu that opens. For successful installation, it is necessary to start as an administrator.
 
 To uninstall, simply delete the QuickSMS folder and QuickSMS.exe.
 
